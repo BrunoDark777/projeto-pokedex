@@ -145,6 +145,12 @@ main .cartao-pkm, .tipos{
     padding: 8px;
 }
 
+.tipo-fada{
+    background-color: rgb(248, 170, 183);
+    border-radius: 10px;
+    padding: 8px;
+}
+
 main .descricao{
 
     max-height: 80px;
