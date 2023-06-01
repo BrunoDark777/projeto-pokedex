@@ -151,6 +151,18 @@ main .cartao-pkm, .tipos{
     padding: 8px;
 }
 
+.tipo-lutador{
+    background-color: rgb(218, 1, 1);
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.tipo-psiquico{
+    background-color: rgb(201, 108, 108);
+    border-radius: 10px;
+    padding: 8px;
+}
+
 main .descricao{
 
     max-height: 80px;
