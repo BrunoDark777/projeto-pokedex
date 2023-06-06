@@ -163,6 +163,30 @@ main .cartao-pkm, .tipos{
     padding: 8px;
 }
 
+.tipo-pedra{
+    background-color: #beb23e;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.tipo-aco{
+    background-color: #008080;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.tipo-gelo{
+    background-color: #7FFFD4;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.tipo-fantasma{
+    background-color: #8B008B;
+    border-radius: 10px;
+    padding: 8px;
+}
+
 main .descricao{
 
     max-height: 80px;
